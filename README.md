@@ -18,6 +18,9 @@ It contains daily statistics on the most popular YouTube videos from multiple re
 🔗 [Kaggle Dataset – Trending YouTube Video Statistics](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
 ---
+## 📊 Architecture Diagram
+
+![YouTube AWS Data Engineering Architecture](https://private-user-images.githubusercontent.com/158104333/386010672-6414ec73-0086-4b15-9d83-7adb9d205326.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkaXNhYmxlX3JlZ2lvbnMiOltdLCJleHAiOjE3NDUwODcwNTIsImNvbnRlbnRfdHlwZSI6ImltYWdlL3BuZyIsInJlc291cmNlX2lkIjoiMTU4MTA0MzMzLzM4NjAxMDY3Mi02NDE0ZWM3My0wMDg2LTRiMTUtOWQ4My03YWRiOWQyMDUzMjYucG5nIiwicmVwb19pZCI6IlByaXZhdGVVc2VySW1hZ2VzIiwidXNlcl9pZCI6IjE1ODEwNDMzMyIsIm9yaWdpbmFsX3JlcXVlc3QiOnRydWUsImlhdCI6MTc0NTA4Njc1Mn0.DIRCh3WDXHwTG-tzcbnm3EByMNXfTgK98CBJaWj3vHw)
 
 ## 🏗️ Architecture Overview
 
@@ -102,9 +105,7 @@ The project is built on a **modern AWS data lake architecture** with three prima
 
 ---
 
-## 📊 Architecture Diagram
 
-![YouTube AWS Data Engineering Architecture](https://private-user-images.githubusercontent.com/158104333/386010672-6414ec73-0086-4b15-9d83-7adb9d205326.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkaXNhYmxlX3JlZ2lvbnMiOltdLCJleHAiOjE3NDUwODcwNTIsImNvbnRlbnRfdHlwZSI6ImltYWdlL3BuZyIsInJlc291cmNlX2lkIjoiMTU4MTA0MzMzLzM4NjAxMDY3Mi02NDE0ZWM3My0wMDg2LTRiMTUtOWQ4My03YWRiOWQyMDUzMjYucG5nIiwicmVwb19pZCI6IlByaXZhdGVVc2VySW1hZ2VzIiwidXNlcl9pZCI6IjE1ODEwNDMzMyIsIm9yaWdpbmFsX3JlcXVlc3QiOnRydWUsImlhdCI6MTc0NTA4Njc1Mn0.DIRCh3WDXHwTG-tzcbnm3EByMNXfTgK98CBJaWj3vHw)
 
 ---
 
