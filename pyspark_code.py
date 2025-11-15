@@ -46,8 +46,7 @@ dropnullfields3 = DropNullFields.apply(frame = resolvechoice2, transformation_ct
 ## @return: datasink4
 ## @inputs: [frame = dropnullfields3]
 
-############################### Added by Darshil ###############################
-#MAKE SURE YOU COPY ONLY WHAT IS NEEDED
+
 
 datasink1 = dropnullfields3.toDF().coalesce(1)
 df_final_output = DynamicFrame.fromDF(datasink1, glueContext, "df_final_output")
